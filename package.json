@@ -1,0 +1,26 @@
+{
+  "name": "get-promo-beers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "beers",
+    "promo",
+    "discounts",
+    "poland",
+    "node",
+    "express",
+    "app"
+  ],
+  "author": "noiff",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "jsdom": "^11.0.0",
+    "request": "^2.81.0",
+    "request-promise-native": "^1.0.4"
+  }
+}
